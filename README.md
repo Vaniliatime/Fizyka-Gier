@@ -1,5 +1,6 @@
 # Fizyka-Gier
-Projekty  Krzysztof Kaszuba 11910 </br>
+Projekty  Krzysztof Kaszuba 
+Realizowane z przedmiotu "Fizyka Gier"</br>
 
 Paczka Całość        G-Drive: https://drive.google.com/file/d/1fqmoYsj0IcnC-kNyJtC7X0bi9zojlLYg/view?usp=sharing </br>
 
